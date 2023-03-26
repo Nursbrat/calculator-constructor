@@ -1,0 +1,14 @@
+.operators {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(4, 1fr);
+  width: 290px;
+  height: 56px;
+  text-align: center;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.06), 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  gap: 10px;
+  padding: 5px 10px;
+}
